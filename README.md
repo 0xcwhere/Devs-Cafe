@@ -21,7 +21,7 @@ Most people get lost in "where do I start?" — too many scattered resources, no
 
 - 📖 Recommended books (organized by skill level: Beginner → Advanced)
 - 🗺️ Step-by-step roadmaps for each track
-- 🔗 Free/paid resource links (courses, labs, CTFs)
+- 🔗 FULL FREE resource links (courses, labs, CTFs, Books)
 - 🛠️ Tools & practice platforms per topic
 
 ## Contributing
