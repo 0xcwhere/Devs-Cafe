@@ -26,4 +26,4 @@ Most people get lost in "where do I start?" — too many scattered resources, no
 
 ## Contributing
 Got a resource that helped you? PRs are welcome — let's build this together, like sitting in a café sharing what we know. ☕
-> Most of the resources are by Profitinals People! All I did is to collect them and put them in one place! 📁🚧
+> Most of the resources are from professionals! I collected them and put them in one place. 📁🚧
